@@ -15,8 +15,8 @@ You can change this parameters:
 ```
 sentence = "Hello, how are you?"
 alpha = 0.1 
-gamma = 0.9  # Discount factor for future rewards
-num_episodes = 10  # Number of training episodes
+gamma = 0.9  
+num_episodes = 10 
 ```
 
 | Code | Description | Type |
